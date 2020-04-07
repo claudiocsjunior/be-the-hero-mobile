@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "be the hero",
+    "slug": "beTheHero",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logo.png",
+    "splash": {
+      "image": "./assets/reload.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#e02041"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
